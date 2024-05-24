@@ -6,7 +6,7 @@ There are two parts on End-to-End-Question-Answering project:
 
   + Some type of reader for reference (demo code):
       * Classification Approach:
-        - Demo code (backbone: LSTM framework): Question-Answering Classification Approach.ipynb
+        - Demo code (LSTM-based): Question-Answering Classification Approach.ipynb
       * Extractive Approach:
         - Demo code (LSTM-based): Question-Answering Extractive Approach-LSTM-based.ipynb
         - Demo code (Transformer-based): Question-Answering Extractive Approach-Transformer-based.ipynb
