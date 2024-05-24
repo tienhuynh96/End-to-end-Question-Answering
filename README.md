@@ -3,7 +3,8 @@
 There are two parts on End-to-End-Question-Answering project:
 - Document retriever: Retrieve equivalent document with the question.
 - Document Reader: Read document and raise the answer for question.
-  + Some type of reader for reference:
+
+  + Some type of reader for reference (demo code):
       * Classification Approach:
         - Demo code (backbone: LSTM framework): Question-Answering Classification Approach.ipynb
       * Extractive Approach:
